@@ -6,8 +6,17 @@
   "directories": {
     "example": "example"
   },
+  "dependencies": {
+    "typescript": "^1.5.0-alpha"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Éverton R. Auler",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^1.5.0-alpha"
   },
   "keywords": [
     "Typescript 1.5",
@@ -15,9 +24,12 @@
     "ES6",
     "Angular"
   ],
-  "author": "Éverton R. Auler",
-  "license": "MIT",
-  "dependencies": {
-    "typescript": "^1.5.0-alpha"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evertonrobertoauler/simple-typescript-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evertonrobertoauler/simple-typescript-loader/issues"
+  },
+  "homepage": "https://github.com/evertonrobertoauler/simple-typescript-loader"
 }
