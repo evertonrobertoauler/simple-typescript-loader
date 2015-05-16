@@ -1,3 +1,7 @@
+# Deprecated
+
+Use [typescript-simple-loader](https://www.npmjs.com/package/typescript-simple-loader) instead, it has better support and features.
+
 # simple-typescript-loader
 
 > Simple Webpack Loader for Typescript 1.5

@@ -1,6 +1,6 @@
 {
   "name": "simple-typescript-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Webpack Loader for Typescript 1.5",
   "main": "index.js",
   "directories": {
